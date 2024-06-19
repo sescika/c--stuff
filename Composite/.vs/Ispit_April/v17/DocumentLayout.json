@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\businesslogic\\posiljkabasecomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:businesslogic\\posiljkabasecomposite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\businesslogic\\posiljkabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:businesslogic\\posiljkabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|d:\\faks\\fax\\iii_godina\\trim_2\\c#2\\ispitc#_jul_vezba\\ispit_april\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|d:\\faks\\fax\\iii_godina\\trim_2\\c#2\\ispitc#_jul_vezba\\ispit_april\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|d:\\faks\\fax\\iii_godina\\trim_2\\c#2\\ispitc#_jul_vezba\\ispit_april\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\businesslogic\\kontejner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:businesslogic\\kontejner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\businesslogic\\posiljka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:businesslogic\\posiljka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\businesslogic\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:businesslogic\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8626A21C-0F48-4C76-A849-EE46B5273AA9}|Ispit_April.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:34:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:29:18.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PosiljkaBaseComposite.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\PosiljkaBaseComposite.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\PosiljkaBaseComposite.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\PosiljkaBaseComposite.cs",
+              "RelativeToolTip": "BusinessLogic\\PosiljkaBaseComposite.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:20:56.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kontejner.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\Kontejner.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Kontejner.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\Kontejner.cs",
+              "RelativeToolTip": "BusinessLogic\\Kontejner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:17:02.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T16:10:34.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paket.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\Paket.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Paket.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\Paket.cs",
+              "RelativeToolTip": "BusinessLogic\\Paket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:26:46.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-19T15:19:45.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Posiljka.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\Posiljka.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Posiljka.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\Posiljka.cs",
+              "RelativeToolTip": "BusinessLogic\\Posiljka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:16:18.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PosiljkaBase.cs",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\PosiljkaBase.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\PosiljkaBase.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\BusinessLogic\\PosiljkaBase.cs",
+              "RelativeToolTip": "BusinessLogic\\PosiljkaBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:59:39.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\faks\\fax\\III_godina\\trim_2\\c#2\\IspitC#_Jul_Vezba\\Ispit_April\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:56:02.107Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

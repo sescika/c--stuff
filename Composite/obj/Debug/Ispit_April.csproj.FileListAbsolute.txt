@@ -1,0 +1,10 @@
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\bin\Debug\Ispit_April.exe.config
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\bin\Debug\Ispit_April.exe
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\bin\Debug\Ispit_April.pdb
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.csproj.AssemblyReference.cache
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.Properties.Resources.resources
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.csproj.GenerateResource.cache
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.csproj.CoreCompileInputs.cache
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.exe
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.pdb
+D:\faks\fax\III_godina\trim_2\c#2\IspitC#_Jul_Vezba\Ispit_April\obj\Debug\Ispit_April.Form.resources
